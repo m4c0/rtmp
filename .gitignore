@@ -7,3 +7,6 @@ rtmpdump
 rtmpgw
 rtmpsrv
 rtmpsuck
+
+build
+*.sw?
